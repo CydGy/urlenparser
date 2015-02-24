@@ -1,0 +1,6 @@
+{
+  "name": "urlenparser",
+  "version": "0.0.0",
+  "main": "./lib/urlenparser.js",
+  "engines": { "node": ">= 0.10.28" }
+}
